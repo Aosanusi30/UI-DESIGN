@@ -8,7 +8,7 @@ This is to showcase my skills on UI/UX design for website and mobile apps. All f
 
 DEVELOPMENT
 ----
-The Prototype was designed using html, sass and java script. I find sass more power and easy to use because of it nesting. The wesite uses also have animation and transistion with different view from a mobile view, tablet view and desktop view.
+The Prototype was designed using html, sass and java script. I find sass more power and easy to use because of it nesting. The wesite also have animation and transistion with different view from a mobile, tablet and desktop view.
 
 The Home Page 
 ![Web 1920 – 1](https://user-images.githubusercontent.com/108492188/183203591-6f2dc421-d4f4-4159-89a6-91207f3c0fa0.png)
